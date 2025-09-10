@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fff;
+  color: #000;
+}
+header {
+  background: linear-gradient(90deg, green, black, white);
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+header .logo {
+  height: 100px;
+}
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+section {
+  padding: 20px;
+  text-align: center;
+}
+iframe {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+footer {
+  background: #f0f0f0;
+  padding: 10px;
+  text-align: center;
+  font-size: 0.9em;
+}
